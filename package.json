@@ -1,0 +1,30 @@
+{
+  "name": "wp-react-template",
+  "version": "0.1.0",
+  "description": "An Wordpress React Template for creating wordpress themes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petrickah/wp-react-template.git"
+  },
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "test:unit": "wp-scripts test-unit-js"
+  },
+  "keywords": [
+    "wordpress",
+    "react",
+    "themes",
+    "template"
+  ],
+  "author": "Tiberiu Petre (Petrickah)",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/Petrickah/wp-react-template/issues"
+  },
+  "homepage": "https://github.com/Petrickah/wp-react-template#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^23.2.0",
+    "typescript": "^4.7.3"
+  }
+}
