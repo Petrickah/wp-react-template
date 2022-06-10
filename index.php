@@ -1,3 +1,3 @@
-<?php
+<?php wp_head(); ?>
 
-// Nothing to see here!
+<?php wp_footer(); ?>
