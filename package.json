@@ -25,6 +25,11 @@
   "homepage": "https://github.com/Petrickah/wp-react-template#readme",
   "devDependencies": {
     "@wordpress/scripts": "^23.2.0",
+    "scss": "^0.2.4",
     "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react-bootstrap": "^2.4.0"
   }
 }

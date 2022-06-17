@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php wp_head(); ?>
 
 <main id="site-content" role="main">
