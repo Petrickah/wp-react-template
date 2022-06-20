@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import { Component } from '@wordpress/element';
 import '../sass/App.scss';
 import logo from '../images/logo.svg';
 

@@ -1,5 +1,4 @@
-import { render } from "@wordpress/element";
-import React, { StrictMode } from 'react';
+import { render, StrictMode } from "@wordpress/element";
 import { ThemeProvider } from "react-bootstrap";
 import App from './classes/App';
 
